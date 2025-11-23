@@ -1,6 +1,7 @@
 # CloverPixel-TierList
 
 **如何查询自己的tier? 按下crtl+f 在搜索框里输入自己的id就可以了！**
+
 *排名不分先后，仅供娱乐*
 
 ## Bedfight TierList
